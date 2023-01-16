@@ -1,0 +1,27 @@
+{
+  "name": "easycount_front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agudelojohn/easyCount_front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agudelojohn/easyCount_front/issues"
+  },
+  "homepage": "https://github.com/agudelojohn/easyCount_front#readme",
+  "dependencies": {
+    "next": "^13.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
